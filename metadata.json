@@ -1,0 +1,6 @@
+{
+  "name": "TechCare AI",
+  "description": "Beginner-friendly AI-powered IT support platform for troubleshooting computer, software, internet, and hardware issues, managing tickets, and drafting professional IT emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
